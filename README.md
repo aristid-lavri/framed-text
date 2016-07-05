@@ -1,5 +1,5 @@
 # framed-text
-Simple Android Custom View for learning purpose.<br><br>
+Simple Android Custom View for learning purpose.<br>
 
 # Custom attributes
 Create custom attributes file <code>attrs.xml</code> in <code>res/values/</code> project directory.
